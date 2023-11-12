@@ -1,0 +1,14 @@
+.parent {
+    background: rgb(0, 128, 98);
+    border: 2px solid rgb(179, 38, 38);
+    border-radius: 10px;
+}
+
+.child {
+    background-image: url('./1.webp');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 2px dashed rgb(105, 105, 23);
+    border-radius: 10px;
+}
